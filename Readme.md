@@ -11,7 +11,7 @@ in classifying handwritten digits.
 2. Implemented K-Nearest Neighbours for the above classification task																				
 3. Evaluated the advantages and disadvantages of the above classification methods																			
 
-### File included in this project
+### Files included in this project
 
 • mnist all.mat: original dataset from MNIST. In this file, there are 10 matrices for testing set and 10
 matrices for training set, which corresponding to 10 digits. Among the training set, you have to divide
