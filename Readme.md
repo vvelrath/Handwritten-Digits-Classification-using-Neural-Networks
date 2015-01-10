@@ -6,7 +6,7 @@ Adithya Ramakrishnan (aramakri@buffalo.edu)
 ### Description
 
 In this assignment, we implemented different classification methods and compared its performance
-in classifying handwritten digits.
+in classifying handwritten digits.																							
 1. Used Feed Forward, Back Propagation to implement a Neural Network																						
 2. Implemented K-Nearest Neighbours for the above classification task																				
 3. Evaluated the advantages and disadvantages of the above classification methods																			
